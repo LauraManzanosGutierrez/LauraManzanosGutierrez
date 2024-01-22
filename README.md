@@ -9,9 +9,6 @@ I'm Laura Manzanos Gutiérrez, a passionate Computer Engineering student from Sp
 - 🌱 I’m currently learning web development with a focus on React.
 - 👩‍💻 I'm in the early stages of my coding journey, exploring HTML, CSS, and JavaScript.
 
-  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LauraManzanosGutierrez&show_icons=true&theme=radical)
-
 ## 👩‍💻 Tech Stack
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -33,7 +30,9 @@ I'm Laura Manzanos Gutiérrez, a passionate Computer Engineering student from Sp
 📫 You can reach or contact me on:
 - [LinkedIn](https://www.linkedin.com/in/laura-manzanos-guti%C3%A9rrez-0504a68a/)
 - laura.manzanos@gmail.com
-  
-## Pronouns
 
+## Stats  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LauraManzanosGutierrez&show_icons=true&theme=radical)
+
+## Pronouns
 - 😄 Pronouns: She/Her
