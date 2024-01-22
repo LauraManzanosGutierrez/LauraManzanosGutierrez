@@ -1,4 +1,4 @@
-# Laura Manzanos Gutiérrez ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+# 👋 Laura Manzanos Gutiérrez.
 
 I'm Laura Manzanos Gutiérrez, a passionate Computer Engineering student from Spain. Welcome to my GitHub profile!
 
