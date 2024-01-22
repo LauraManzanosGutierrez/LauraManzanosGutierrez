@@ -26,13 +26,9 @@ I'm Laura Manzanos Gutiérrez, a passionate Computer Engineering student from Sp
 ![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
 
 ## Get in Touch
-
 📫 You can reach or contact me on:
 - [LinkedIn](https://www.linkedin.com/in/laura-manzanos-guti%C3%A9rrez-0504a68a/)
 - laura.manzanos@gmail.com
-
-## Stats  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LauraManzanosGutierrez&show_icons=true&theme=radical)
 
 ## Pronouns
 - 😄 Pronouns: She/Her
